@@ -1,0 +1,15 @@
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab02\Fex1\bin\Debug\net8.0\Fex1.exe
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab02\Fex1\bin\Debug\net8.0\Fex1.deps.json
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab02\Fex1\bin\Debug\net8.0\Fex1.runtimeconfig.json
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab02\Fex1\bin\Debug\net8.0\Fex1.dll
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab02\Fex1\bin\Debug\net8.0\Fex1.pdb
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab02\Fex1\obj\Debug\net8.0\Fex1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab02\Fex1\obj\Debug\net8.0\Fex1.AssemblyInfoInputs.cache
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab02\Fex1\obj\Debug\net8.0\Fex1.AssemblyInfo.cs
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab02\Fex1\obj\Debug\net8.0\Fex1.csproj.CoreCompileInputs.cache
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab02\Fex1\obj\Debug\net8.0\Fex1.sourcelink.json
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab02\Fex1\obj\Debug\net8.0\Fex1.dll
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab02\Fex1\obj\Debug\net8.0\refint\Fex1.dll
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab02\Fex1\obj\Debug\net8.0\Fex1.pdb
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab02\Fex1\obj\Debug\net8.0\Fex1.genruntimeconfig.cache
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab02\Fex1\obj\Debug\net8.0\ref\Fex1.dll

@@ -10,6 +10,7 @@
         {
             //Xuất unicode
             Console.OutputEncoding = System.Text.Encoding.UTF8;
+
             char ch;
             Console.Write("Nhập vào ký tự: ");
             ch = (char)Console.Read();
