@@ -1,0 +1,15 @@
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab03\Lab03_1\bin\Debug\net8.0\Lab03_1.exe
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab03\Lab03_1\bin\Debug\net8.0\Lab03_1.deps.json
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab03\Lab03_1\bin\Debug\net8.0\Lab03_1.runtimeconfig.json
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab03\Lab03_1\bin\Debug\net8.0\Lab03_1.dll
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab03\Lab03_1\bin\Debug\net8.0\Lab03_1.pdb
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab03\Lab03_1\obj\Debug\net8.0\Lab03_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab03\Lab03_1\obj\Debug\net8.0\Lab03_1.AssemblyInfoInputs.cache
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab03\Lab03_1\obj\Debug\net8.0\Lab03_1.AssemblyInfo.cs
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab03\Lab03_1\obj\Debug\net8.0\Lab03_1.csproj.CoreCompileInputs.cache
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab03\Lab03_1\obj\Debug\net8.0\Lab03_1.sourcelink.json
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab03\Lab03_1\obj\Debug\net8.0\Lab03_1.dll
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab03\Lab03_1\obj\Debug\net8.0\refint\Lab03_1.dll
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab03\Lab03_1\obj\Debug\net8.0\Lab03_1.pdb
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab03\Lab03_1\obj\Debug\net8.0\Lab03_1.genruntimeconfig.cache
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab03\Lab03_1\obj\Debug\net8.0\ref\Lab03_1.dll
