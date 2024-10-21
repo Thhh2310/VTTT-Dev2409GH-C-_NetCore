@@ -1,0 +1,15 @@
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab05\BaiLamThem\bin\Debug\net8.0\BaiLamThem.exe
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab05\BaiLamThem\bin\Debug\net8.0\BaiLamThem.deps.json
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab05\BaiLamThem\bin\Debug\net8.0\BaiLamThem.runtimeconfig.json
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab05\BaiLamThem\bin\Debug\net8.0\BaiLamThem.dll
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab05\BaiLamThem\bin\Debug\net8.0\BaiLamThem.pdb
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab05\BaiLamThem\obj\Debug\net8.0\BaiLamThem.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab05\BaiLamThem\obj\Debug\net8.0\BaiLamThem.AssemblyInfoInputs.cache
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab05\BaiLamThem\obj\Debug\net8.0\BaiLamThem.AssemblyInfo.cs
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab05\BaiLamThem\obj\Debug\net8.0\BaiLamThem.csproj.CoreCompileInputs.cache
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab05\BaiLamThem\obj\Debug\net8.0\BaiLamThem.sourcelink.json
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab05\BaiLamThem\obj\Debug\net8.0\BaiLamThem.dll
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab05\BaiLamThem\obj\Debug\net8.0\refint\BaiLamThem.dll
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab05\BaiLamThem\obj\Debug\net8.0\BaiLamThem.pdb
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab05\BaiLamThem\obj\Debug\net8.0\BaiLamThem.genruntimeconfig.cache
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22\Lab05\BaiLamThem\obj\Debug\net8.0\ref\BaiLamThem.dll
