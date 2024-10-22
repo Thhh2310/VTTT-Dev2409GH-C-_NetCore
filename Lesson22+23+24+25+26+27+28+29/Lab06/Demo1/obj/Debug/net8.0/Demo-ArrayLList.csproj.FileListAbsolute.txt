@@ -1,0 +1,15 @@
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Demo1\bin\Debug\net8.0\Demo-ArrayLList.exe
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Demo1\bin\Debug\net8.0\Demo-ArrayLList.deps.json
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Demo1\bin\Debug\net8.0\Demo-ArrayLList.runtimeconfig.json
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Demo1\bin\Debug\net8.0\Demo-ArrayLList.dll
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Demo1\bin\Debug\net8.0\Demo-ArrayLList.pdb
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Demo1\obj\Debug\net8.0\Demo-ArrayLList.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Demo1\obj\Debug\net8.0\Demo-ArrayLList.AssemblyInfoInputs.cache
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Demo1\obj\Debug\net8.0\Demo-ArrayLList.AssemblyInfo.cs
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Demo1\obj\Debug\net8.0\Demo-ArrayLList.csproj.CoreCompileInputs.cache
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Demo1\obj\Debug\net8.0\Demo-ArrayLList.sourcelink.json
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Demo1\obj\Debug\net8.0\Demo-ArrayLList.dll
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Demo1\obj\Debug\net8.0\refint\Demo-ArrayLList.dll
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Demo1\obj\Debug\net8.0\Demo-ArrayLList.pdb
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Demo1\obj\Debug\net8.0\Demo-ArrayLList.genruntimeconfig.cache
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Demo1\obj\Debug\net8.0\ref\Demo-ArrayLList.dll

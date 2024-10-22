@@ -1,0 +1,15 @@
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Exam3\bin\Debug\net8.0\Exam3.exe
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Exam3\bin\Debug\net8.0\Exam3.deps.json
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Exam3\bin\Debug\net8.0\Exam3.runtimeconfig.json
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Exam3\bin\Debug\net8.0\Exam3.dll
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Exam3\bin\Debug\net8.0\Exam3.pdb
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Exam3\obj\Debug\net8.0\Exam3.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Exam3\obj\Debug\net8.0\Exam3.AssemblyInfoInputs.cache
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Exam3\obj\Debug\net8.0\Exam3.AssemblyInfo.cs
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Exam3\obj\Debug\net8.0\Exam3.csproj.CoreCompileInputs.cache
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Exam3\obj\Debug\net8.0\Exam3.sourcelink.json
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Exam3\obj\Debug\net8.0\Exam3.dll
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Exam3\obj\Debug\net8.0\refint\Exam3.dll
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Exam3\obj\Debug\net8.0\Exam3.pdb
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Exam3\obj\Debug\net8.0\Exam3.genruntimeconfig.cache
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22+23+24+25+26+27+28+29\Lab06\Exam3\obj\Debug\net8.0\ref\Exam3.dll
