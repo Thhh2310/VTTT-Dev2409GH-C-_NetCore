@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\Lab07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3D910A-9283-447C-82C8-52563592AD80}|Ex07-3\\Ex07-3.csproj|d:\\vttt-dev2409gh-c-_netcore\\lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\lab07\\ex07-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3D910A-9283-447C-82C8-52563592AD80}|Ex07-3\\Ex07-3.csproj|solutionrelative:ex07-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F3D910A-9283-447C-82C8-52563592AD80}|Ex07-3\\Ex07-3.csproj|d:\\vttt-dev2409gh-c-_netcore\\lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\lab07\\ex07-3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F3D910A-9283-447C-82C8-52563592AD80}|Ex07-3\\Ex07-3.csproj|solutionrelative:ex07-3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E0B92A-9242-4D06-9B8E-8BC52441F5F1}|Ex07-2\\Ex07-2.csproj|d:\\vttt-dev2409gh-c-_netcore\\lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\lab07\\ex07-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88E0B92A-9242-4D06-9B8E-8BC52441F5F1}|Ex07-2\\Ex07-2.csproj|solutionrelative:ex07-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43CA8FAD-3973-43E0-AE1B-C1CA70D9BEA1}|Ex07-1\\Ex07-1.csproj|d:\\vttt-dev2409gh-c-_netcore\\lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\lab07\\ex07-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43CA8FAD-3973-43E0-AE1B-C1CA70D9BEA1}|Ex07-1\\Ex07-1.csproj|solutionrelative:ex07-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43CA8FAD-3973-43E0-AE1B-C1CA70D9BEA1}|Ex07-1\\Ex07-1.csproj|d:\\vttt-dev2409gh-c-_netcore\\lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\lab07\\ex07-1\\anthit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43CA8FAD-3973-43E0-AE1B-C1CA70D9BEA1}|Ex07-1\\Ex07-1.csproj|solutionrelative:ex07-1\\anthit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43CA8FAD-3973-43E0-AE1B-C1CA70D9BEA1}|Ex07-1\\Ex07-1.csproj|d:\\vttt-dev2409gh-c-_netcore\\lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\lab07\\ex07-1\\anco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43CA8FAD-3973-43E0-AE1B-C1CA70D9BEA1}|Ex07-1\\Ex07-1.csproj|solutionrelative:ex07-1\\anco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C1D4AD-6DF0-431B-BFA9-3023AE243096}|Lab07-4\\Lab07-4.csproj|d:\\vttt-dev2409gh-c-_netcore\\lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\lab07\\lab07-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C1D4AD-6DF0-431B-BFA9-3023AE243096}|Lab07-4\\Lab07-4.csproj|solutionrelative:lab07-4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CBDC04-699D-440B-A995-A0C4A22AE3D4}|Lab07-3\\Lab07-3.csproj|d:\\vttt-dev2409gh-c-_netcore\\lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\lab07\\lab07-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CBDC04-699D-440B-A995-A0C4A22AE3D4}|Lab07-3\\Lab07-3.csproj|solutionrelative:lab07-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F7D122-50B0-4D66-9FA8-0A62C541D466}|Lab07-2\\Lab07-2.csproj|d:\\vttt-dev2409gh-c-_netcore\\lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\lab07\\lab07-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F7D122-50B0-4D66-9FA8-0A62C541D466}|Lab07-2\\Lab07-2.csproj|solutionrelative:lab07-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F7D122-50B0-4D66-9FA8-0A62C541D466}|Lab07-2\\Lab07-2.csproj|d:\\vttt-dev2409gh-c-_netcore\\lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\lab07\\lab07-2\\dev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32F7D122-50B0-4D66-9FA8-0A62C541D466}|Lab07-2\\Lab07-2.csproj|solutionrelative:lab07-2\\dev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3730C2F-A541-4BD0-967F-30F9B6AC94B1}|Lab07-1\\Lab07-1.csproj|d:\\vttt-dev2409gh-c-_netcore\\lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\lab07\\lab07-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3730C2F-A541-4BD0-967F-30F9B6AC94B1}|Lab07-1\\Lab07-1.csproj|solutionrelative:lab07-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3730C2F-A541-4BD0-967F-30F9B6AC94B1}|Lab07-1\\Lab07-1.csproj|d:\\vttt-dev2409gh-c-_netcore\\lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\lab07\\lab07-1\\dev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3730C2F-A541-4BD0-967F-30F9B6AC94B1}|Lab07-1\\Lab07-1.csproj|solutionrelative:lab07-1\\dev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\Lab07\\Ex07-3\\Student.cs",
+              "RelativeDocumentMoniker": "Ex07-3\\Student.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\Lab07\\Ex07-3\\Student.cs",
+              "RelativeToolTip": "Ex07-3\\Student.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:11:43.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\Lab07\\Ex07-3\\Program.cs",
+              "RelativeDocumentMoniker": "Ex07-3\\Program.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\Lab07\\Ex07-3\\Program.cs",
+              "RelativeToolTip": "Ex07-3\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:10:42.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\Lab07\\Ex07-2\\Program.cs",
+              "RelativeDocumentMoniker": "Ex07-2\\Program.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\Lab07\\Ex07-2\\Program.cs",
+              "RelativeToolTip": "Ex07-2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:09:27.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnCo.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\Lab07\\Ex07-1\\AnCo.cs",
+              "RelativeDocumentMoniker": "Ex07-1\\AnCo.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\Lab07\\Ex07-1\\AnCo.cs",
+              "RelativeToolTip": "Ex07-1\\AnCo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:56:07.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnThit.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\Lab07\\Ex07-1\\AnThit.cs",
+              "RelativeDocumentMoniker": "Ex07-1\\AnThit.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\Lab07\\Ex07-1\\AnThit.cs",
+              "RelativeToolTip": "Ex07-1\\AnThit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:55:35.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\Lab07\\Ex07-1\\Program.cs",
+              "RelativeDocumentMoniker": "Ex07-1\\Program.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\Lab07\\Ex07-1\\Program.cs",
+              "RelativeToolTip": "Ex07-1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:48:29.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\Lab07\\Lab07-4\\Program.cs",
+              "RelativeDocumentMoniker": "Lab07-4\\Program.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\Lab07\\Lab07-4\\Program.cs",
+              "RelativeToolTip": "Lab07-4\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAIwC0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:36:14.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\Lab07\\Lab07-3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab07-3\\Program.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\Lab07\\Lab07-3\\Program.cs",
+              "RelativeToolTip": "Lab07-3\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:20:32.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dev.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\Lab07\\Lab07-2\\dev.cs",
+              "RelativeDocumentMoniker": "Lab07-2\\dev.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\Lab07\\Lab07-2\\dev.cs",
+              "RelativeToolTip": "Lab07-2\\dev.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:02:19.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\Lab07\\Lab07-2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab07-2\\Program.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\Lab07\\Lab07-2\\Program.cs",
+              "RelativeToolTip": "Lab07-2\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:01:54.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dev.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\Lab07\\Lab07-1\\Dev.cs",
+              "RelativeDocumentMoniker": "Lab07-1\\Dev.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\Lab07\\Lab07-1\\Dev.cs",
+              "RelativeToolTip": "Lab07-1\\Dev.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T01:29:09.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\Lab07\\Lab07-1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab07-1\\Program.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22\u002B23\u002B24\u002B25\u002B26\u002B27\u002B28\u002B29\\Lab07\\Lab07-1\\Program.cs",
+              "RelativeToolTip": "Lab07-1\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T01:28:18.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
