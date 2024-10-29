@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22-29_Csharp_NetCore\\CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{581A70CA-F2EC-4166-80CA-40B1ACFBA805}|CSharp\\CSharp.csproj|d:\\vttt-dev2409gh-c-_netcore\\lesson22-29_csharp_netcore\\csharp\\csharp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581A70CA-F2EC-4166-80CA-40B1ACFBA805}|CSharp\\CSharp.csproj|solutionrelative:csharp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581A70CA-F2EC-4166-80CA-40B1ACFBA805}|CSharp\\CSharp.csproj|d:\\vttt-dev2409gh-c-_netcore\\lesson22-29_csharp_netcore\\csharp\\csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581A70CA-F2EC-4166-80CA-40B1ACFBA805}|CSharp\\CSharp.csproj|solutionrelative:csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{581A70CA-F2EC-4166-80CA-40B1ACFBA805}|CSharp\\CSharp.csproj|d:\\vttt-dev2409gh-c-_netcore\\lesson22-29_csharp_netcore\\csharp\\csharp\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{581A70CA-F2EC-4166-80CA-40B1ACFBA805}|CSharp\\CSharp.csproj|solutionrelative:csharp\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "student.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22-29_Csharp_NetCore\\CSharp\\CSharp\\student.cs",
+              "RelativeDocumentMoniker": "CSharp\\student.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22-29_Csharp_NetCore\\CSharp\\CSharp\\student.cs",
+              "RelativeToolTip": "CSharp\\student.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwDYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:36:04.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudent.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22-29_Csharp_NetCore\\CSharp\\CSharp\\IStudent.cs",
+              "RelativeDocumentMoniker": "CSharp\\IStudent.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22-29_Csharp_NetCore\\CSharp\\CSharp\\IStudent.cs",
+              "RelativeToolTip": "CSharp\\IStudent.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:31:30.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22-29_Csharp_NetCore\\CSharp\\CSharp\\Program.cs",
+              "RelativeDocumentMoniker": "CSharp\\Program.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22-29_Csharp_NetCore\\CSharp\\CSharp\\Program.cs",
+              "RelativeToolTip": "CSharp\\Program.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAwwHcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:16:53.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

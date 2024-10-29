@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22+23+24+25+26+27+28+29\\Lab08-LINQ\\Lab08-3\\Lab08-3.csproj": {}
+    "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22-29_Csharp_NetCore\\Lab08-LINQ\\Lab08-3\\Lab08-3.csproj": {}
   },
   "projects": {
-    "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22+23+24+25+26+27+28+29\\Lab08-LINQ\\Lab08-3\\Lab08-3.csproj": {
+    "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22-29_Csharp_NetCore\\Lab08-LINQ\\Lab08-3\\Lab08-3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22+23+24+25+26+27+28+29\\Lab08-LINQ\\Lab08-3\\Lab08-3.csproj",
+        "projectUniqueName": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22-29_Csharp_NetCore\\Lab08-LINQ\\Lab08-3\\Lab08-3.csproj",
         "projectName": "Lab08-3",
-        "projectPath": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22+23+24+25+26+27+28+29\\Lab08-LINQ\\Lab08-3\\Lab08-3.csproj",
+        "projectPath": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22-29_Csharp_NetCore\\Lab08-LINQ\\Lab08-3\\Lab08-3.csproj",
         "packagesPath": "C:\\Users\\tranh\\.nuget\\packages\\",
-        "outputPath": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22+23+24+25+26+27+28+29\\Lab08-LINQ\\Lab08-3\\obj\\",
+        "outputPath": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lesson22-29_Csharp_NetCore\\Lab08-LINQ\\Lab08-3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

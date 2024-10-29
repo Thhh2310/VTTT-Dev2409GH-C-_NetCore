@@ -1,0 +1,15 @@
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22-29_Csharp_NetCore\CSharp\CSharp\bin\Debug\net8.0\CSharp.exe
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22-29_Csharp_NetCore\CSharp\CSharp\bin\Debug\net8.0\CSharp.deps.json
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22-29_Csharp_NetCore\CSharp\CSharp\bin\Debug\net8.0\CSharp.runtimeconfig.json
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22-29_Csharp_NetCore\CSharp\CSharp\bin\Debug\net8.0\CSharp.dll
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22-29_Csharp_NetCore\CSharp\CSharp\bin\Debug\net8.0\CSharp.pdb
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22-29_Csharp_NetCore\CSharp\CSharp\obj\Debug\net8.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22-29_Csharp_NetCore\CSharp\CSharp\obj\Debug\net8.0\CSharp.AssemblyInfoInputs.cache
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22-29_Csharp_NetCore\CSharp\CSharp\obj\Debug\net8.0\CSharp.AssemblyInfo.cs
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22-29_Csharp_NetCore\CSharp\CSharp\obj\Debug\net8.0\CSharp.csproj.CoreCompileInputs.cache
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22-29_Csharp_NetCore\CSharp\CSharp\obj\Debug\net8.0\CSharp.sourcelink.json
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22-29_Csharp_NetCore\CSharp\CSharp\obj\Debug\net8.0\CSharp.dll
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22-29_Csharp_NetCore\CSharp\CSharp\obj\Debug\net8.0\refint\CSharp.dll
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22-29_Csharp_NetCore\CSharp\CSharp\obj\Debug\net8.0\CSharp.pdb
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22-29_Csharp_NetCore\CSharp\CSharp\obj\Debug\net8.0\CSharp.genruntimeconfig.cache
+D:\VTTT-Dev2409GH-C-_NetCore\Lesson22-29_Csharp_NetCore\CSharp\CSharp\obj\Debug\net8.0\ref\CSharp.dll
