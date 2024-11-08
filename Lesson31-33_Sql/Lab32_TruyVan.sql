@@ -1291,3 +1291,613 @@ set Diem = case
 				else Diem
 			end
 where MaMH = '01'
+
+
+
+
+--Lab05: View
+
+/*
+1. Liệt kê các sinh viên có học bổng > 100000 và sinh ở tp.hcm,
+gồm: Họ tên sinh viên, Mã khoa, nơi sinh, học bổng
+*/
+CREATE VIEW vw_Hocbong
+AS
+	select HoSV + ' ' + TenSV as [Họ tên sinh viên],
+		MaKH as [Mã Khoa], NoiSinh as [Nơi sinh], HocBong as [Học Bổng]
+	from SinhVien
+	where HocBong > 100000 and NoiSinh like N'Tp. HCM'
+go
+--xem dữ liệu qua view
+Select * from vw_Hocbong
+
+/*
+2. Danh sách các sinh viên của khoa Anh văn và Triết, 
+gồm: Mã sv, mã khoa, phái
+*/
+CREATE VIEW vw_GetSinhVien
+AS
+	select MaSV as [Mã sinh viên],
+			MaKH as [Mã khoa],
+			Phai as [Phái]
+	from SinhVien
+	where MaKH = 'AV' or MaKH = 'TR'
+--xem dữ liệu qua view
+Select * from vw_GetSinhVien
+
+/*
+3. Cho biết những sv có ngày sinh 01/01/1986 -> 05/06/1992,
+gồm: Mã sv, Ngày sinh, Nơi sinh, Học bổng.
+*/
+CREATE VIEW vw_GetNgaySinh
+AS
+	select MaSV as [Mã sinh viên],
+			NgaySinh as [Ngày sinh],
+			NoiSinh as [Nơi sinh],
+			HocBong as [Học bổng]
+	from SinhVien
+	where NgaySinh between '1986-01-01' AND '1992-06-05'
+--xem dữ liệu qua view
+Select * from vw_GetNgaySinh
+
+/*
+4. Danh sách những sinh viên có học bổng từ 200000 => 800000,
+gồm: Mã sv, Ngày sinh, Phái, Mã khoa.
+*/
+CREATE VIEW vw_GetNgayHoc
+AS
+	select MaSV as [Mã sinh viên],
+			NgaySinh as [Ngày sinh],
+			Phai as [Phái],
+			MaKH as [Mã khoa]
+	from SinhVien
+	where HocBong between 200000 and 800000
+--xem dữ liệu qua view
+Select * from vw_GetNgayHoc
+
+/*
+5. Cho biết những môn học có số tiết > 40 và <60,
+gồm: Mã Môn học, Tên môn học, Số tiết.
+*/
+CREATE VIEW vw_GetSoTiet
+AS
+	select MaMH as [Mã môn học],
+			TenMH as [Tên môn học],
+			SoTiet as [Số tiết]
+	from MonHoc
+	where Sotiet between 40 and 60
+--xem dữ liệu qua view
+Select * from vw_GetSoTiet
+
+/*
+6. liệt kê những sinh viên nam của khoa Anh văn,
+gồm: Mã sv, Họ tên sv, Phái.
+*/
+CREATE VIEW vw_GetKhoa
+AS
+	select MaSV as [Mã sinh viên],
+			HoSV + ' ' + TenSV as [Họ tên sinh viên],
+			Phai as [Phái]
+	from SinhVien
+	where Phai = '0' and MaKH = N'AV'
+--xem dữ liệu qua view
+Select * from vw_GetKhoa
+
+/*
+7. Dah sách sinh viên có nơi sinh ở Hà Nội và ngày sinh sau ngày 01/01/1990,
+gồm: Họ sv, Tên sv, Nơi sinh, Ngày sinh.
+*/
+CREATE VIEW vw_Getngay
+AS
+	select HoSV, TenSV, NoiSinh, NgaySinh
+	from SinhVien
+	where NoiSinh = N'Hà Nội' and NgaySinh > '1990-01-01'
+--xem dữ liệu qua view
+Select * from vw_Getngay
+
+/*
+8. liệt kê những sinh viên nữ, tên có chứa chữ N.
+*/
+CREATE VIEW vw_GetTen
+AS
+	select * from SinhVien
+	where Phai = '1' and TenSV like N'%N%'
+--xem dữ liệu qua view
+Select * from vw_GetTen
+
+/*
+9. Danh sách các nam sv khoa Tin học có ngày sinh sau 30/05/1986.
+*/
+CREATE VIEW vw_GetTinHoc
+AS
+	select * from SinhVien
+	where Phai = '0' and MaKH = N'TH' and NgaySinh > '1986-05-30'
+--xem dữ liệu qua view
+Select * from vw_GetTinHoc
+
+/*
+10. liệt kê danh sách sinh viên gồm các thông tin: Họ tên sv, Giới tính, Ngày sinh.
+Trong đó, giới tính hiển thị ở dạng Nam, Nữ tuỳ theo giá trị là TRue or False.
+*/
+CREATE VIEW vw_GetGioiTinh
+AS
+	select HoSV + ' ' + TenSV as [Họ tên sinh viên],
+			case
+				when Phai = 'True' then N'Nam'
+				when Phai = 'False' then N'Nữ'
+			end as [Giới tính],
+			NgaySinh as [Ngày sinh]
+	from SinhVien
+--xem dữ liệu qua view
+Select * from vw_GetGioiTinh
+
+/*
+11. Cho biết danh sách sv gồm: Mã sv, tuổi, nơi sinh, Mã Khoa.
+Trong đó, Tuổi sẽ đc tính bằng cách lấy năm  hiện hành trừ cho năm sinh.
+*/
+CREATE VIEW vw_GetTuoi
+AS
+	select MaSV as [Mã sinh viên],
+			NoiSinh as [Nơi sinh],
+			MaKH as [Mã khoa],
+			Year(GETDATE())-Year(NgaySinh) as [Tuổi]
+	from SinhVien
+--xem dữ liệu qua view
+Select * from vw_GetTuoi
+
+/*
+12. Danh sách những sv có tuổi từ 20-30,
+gồm: Họ tên sv, Tuổi, Tên Khoa.
+*/
+CREATE VIEW vw_Gettuoi
+AS
+	select HoSV + ' ' + TenSV as [Họ tên sinh viên],
+			Year(GETDATE())-Year(NgaySinh) as [Tuổi],
+			TenKH as [Tên khoa]
+	from SinhVien JOIN Khoa on Khoa.MaKH = SinhVien.MaKH
+	where Year(GETDATE())-Year(NgaySinh) between 20 and 30
+--xem dữ liệu qua view
+Select * from vw_Gettuoi
+
+/*
+13. Cho biết thông tin về mức học bổng của các sv,
+gồm: mã sv, Phái, Mức học bổng.
+trong đó, Mức hb sẽ hiển thị là "Học bổng cao" nếu hb>500 và ngược lại là "Mức trung bình".
+*/
+CREATE VIEW vw_GetMucHB
+AS 
+	select MaSV as [Mã sinh viên],
+			Phai as [Phái],
+			case
+				when HocBong > 500000 then N'Học bổng cao'
+				else N'Mức trung bình'
+			end as [Mức học bổng]
+	from SinhVien
+--xem dữ liệu qua view
+Select * from vw_GetMucHB
+
+/*
+14. Danh sách sv của khoa Anh văn, điều kiện lọc phải sd tên khoa,
+gồm: Họ tên sinh viên, Giới tính, Tên khoa.
+trong đó, Giới tính sẽ hiển thị dưới dạng Nam/Nữ.
+*/
+CREATE VIEW vw_GetGender
+AS 
+	select HoSV + ' ' + TenSV as [Họ tên sinh viên],
+			case
+				when Phai = 0 then N'Nam'
+				when Phai = 1 then N'Nữ'
+			end as [Giới tính]
+	from SinhVien JOIN Khoa on Khoa.MaKH = SinhVien.MaKH
+	where Khoa.TenKH = N'Anh Văn'
+--xem dữ liệu qua view
+Select * from vw_GetGender
+
+/*
+15. Liệt kê bảng điểm của sv khoa Tin học, 
+gồm: Tên Khoa, Họ tên sv, tên môn học, số tiết, điểm.
+*/
+CREATE VIEW vw_GetDiem
+AS
+	select TenKH as [Tên khoa],
+			HoSV + ' ' + TenSV as [Họ tên sinh viên],
+			TenMH as [Tên môn học],
+			Sotiet as [Số tiết],
+			Diem as [Điểm]
+	from SinhVien JOIN Khoa on Khoa.MaKH = SinhVien.MaKH
+				JOIN Ketqua on Ketqua.MaSV = SinhVien.MaSV
+				JOIN MonHoc on MonHoc.MaMH = Ketqua.MaMH
+	where Khoa.TenKH = N'Tin học'
+--xem dữ liệu qua view
+Select * from vw_GetDiem
+
+/*
+16. kết quả học tập của sv,
+gồm: Họ tên sv, mã khoa,Tên mh, Điểm thi, loại.
+trong đó, Loại sẽ là Giỏi nếu điểm > 8, từ 6-8 Loại Khá, < 6 thì Loại Trung bình.
+*/
+CREATE VIEW vw_GetKetQua
+AS
+	select HoSV + ' ' + TenSV as [Họ tên sinh viên],
+			MaKH as [Mã khoa],
+			TenMH as [Tên môn học],
+			Diem as [Điểm thi],
+			case
+				when Diem > 8 then N'Giỏi'
+				when Diem between 6 and 8 then N'Khá'
+				when Diem < 6 then N'Trung bình'
+			end as [Loại]
+	from SinhVien Join Ketqua on Ketqua.MaSV = SinhVien.MaSV
+					Join MonHoc on MonHoc.MaMH = Ketqua.MaMH
+--xem dữ liệu qua view
+Select * from vw_GetKetQua
+
+/*
+17. Cho biết học bổng cao nhất của từng khoa,
+gồm: Mã khoa, Tên khoa, Học bổng cao nhất.
+*/
+CREATE VIEW vw_GetHBMax
+AS 
+	select Khoa.MaKH as [Mã khoa],
+			TenKH as [Tên khoa],
+			MAX(SinhVien.HocBong) as [Học bổng cao nhất]
+	from Khoa JOIN SinhVien on Khoa.MaKH = SinhVien.MaKH
+	group by Khoa.MaKH, TenKH
+--xem dữ liệu qua view
+Select * from vw_GetHBMax
+
+/*
+18. Thống kê số sinh viên học của từng môn,
+gồm: Mã môn, Tên môn, số sv đang học.
+*/
+CREATE VIEW vw_SinhvienTungmon
+AS 
+	select MonHoc.MaMH as [Mã môn học],
+			TenMH as [Tên môn học],
+			COUNT(distinct MaSV) as [Số sinh viên đang học]
+	from MonHoc JOIN Ketqua on Ketqua.MaMH = MonHoc.MaMH
+	group by MonHoc.MaMH, TenMH
+--xem dữ liệu qua view
+Select * from vw_SinhvienTungmon
+
+/*
+19. cho biết môn nào có điểm thi cao nhất,
+gồm: Tên môn, số tiết, tên sinh viên, điểm.
+*/
+CREATE VIEW vw_GetDiemthiCaonhat
+AS
+	select TenMH as [Tên môn học],
+			Sotiet as [Số tiết],
+			TenSV as [Tên sinh viên],
+			Diem as [Điểm]
+	from MonHoc JOIN Ketqua on Ketqua.MaMH = MonHoc.MaMH
+				JOIN SinhVien on SinhVien.MaSV = Ketqua.MaSV
+	where Diem =(select MAX(Diem) from Ketqua where MaMH = Ketqua.MaMH)
+--xem dữ liệu qua view
+Select * from vw_GetDiemthiCaonhat
+
+/*
+20. Cho biết khoa nào có đông sinh viên nhất,
+gồm: Mã khoa, Tên khoa, Tổng số sinh viên.
+*/
+CREATE VIEW vw_KhoaDongSVnhat
+AS
+	select Khoa.MaKH as [Mã khoa],
+			TenKH as [Tên khoa],
+			COUNT(MaSV) as [Tổng số sinh viên]
+	from Khoa JOIN SinhVien on Khoa.MaKH = SinhVien.MaKH
+	group by Khoa.MaKH, TenKH
+	HAVING COUNT(MaSV) = (select Max(Tong) from (select COUNT(MaSV) as Tong from SinhVien group by MaKH) as SubQuery)
+--xem dữ liệu qua view
+Select * from vw_KhoaDongSVnhat
+
+/*
+21. Cho biết khoa nào có sinh viên lãnh học bổng cao nhất,
+gồm: Tên khoa, Họ tên sinh viên, Học bổng.
+*/
+CREATE VIEW vw_GetSVHBcaonhat
+AS 
+	select TenKH as [Tên khoa],
+			HoSV + ' ' + TenSV as [Họ tên sinh viên],
+			HocBong as [Học bổng]
+	from Khoa JOIN SinhVien on Khoa.MaKH = SinhVien.MaKH
+	where HocBong = (select Max(HocBong) from SinhVien where MaKH = SinhVien.MaKH)
+--xem dữ liệu qua view
+Select * from vw_GetSVHBcaonhat
+
+/*
+22. Cho biết sinh viên nào của khoa Tin học có Học bổng cao nhất,
+gồm: Mã sv, Họ sv, Tên sv, Tên khoa, Học bổng.
+*/
+CREATE VIEW vw_SVkhoaTHhocbongCaonhat
+AS
+	select MaSV as [Mã sinh viên],
+			HoSV as [Họ sinh viên],
+			TenSV as [Tên sinh viên],
+			TenKH as [Tên khoa],
+			HocBong as [Học bổng]
+	from SinhVien Join Khoa on Khoa.MaKH = SinhVien.MaKH
+	where TenKH = N'Tin học'
+	and HocBong = (select Max(SV.HocBong) from SinhVien SV where MaKH = 'TH')
+--xem dữ liệu qua view
+Select * from vw_SVkhoaTHhocbongCaonhat
+
+/*
+23. cho biết sinh viên nào có điểm môn CSDL lớn nhất,
+gồm: Họ tên sinh viên, tên môn, Điểm.
+*/
+CREATE VIEW vw_GetDiemCSDLCaonhat
+AS
+	select HoSV + ' ' + TenSV as [Họ tên sinh viên],
+		TenMH as [Tên môn học],
+		Diem as [Điểm]
+	from SinhVien JOIN Ketqua on Ketqua.MaSV = SinhVien.MaSV
+				JOIN MonHoc on MonHoc.MaMH = Ketqua.MaMH
+	where TenMH = N'Cơ sở dữ liệu'
+	and Diem = (select Max(Diem) from Ketqua where MaMH = '01')
+--xem dữ liệu qua view
+Select * from vw_GetDiemCSDLCaonhat
+
+/*
+24. cho biết 3 sv có điểm thi môn đồ hoạ thấp nhất,
+thông tin: Họ tên sinh viên, tên khoa, tên môn, điểm.
+*/
+CREATE VIEW vw_Get3SVDiemThap
+AS
+	select top 3
+			HoSV + ' ' + TenSV as [Họ tên sinh viên],
+			TenKH as [Tên khoa],
+			TenMH as [Tên môn học],
+			Diem as [Điểm thấp nhất]
+	from SinhVien JOIN Ketqua on SinhVien.MaSV = Ketqua.MaSV
+				JOIN MonHoc on MonHoc.MaMH = Ketqua.MaMH
+				JOIN Khoa on SinhVien.MaKH = Khoa.MaKH
+	where MonHoc.TenMH = N'Đồ họa ứng dụng'
+	order by Diem asc
+--xem dữ liệu qua view
+Select * from vw_Get3SVDiemThap
+
+/*
+25. cho biết khoa nào có nhiều sv nữ nhất,
+gồm: Mã khoa, tên khoa.
+*/	
+CREATE VIEW vw_GetSVnu
+AS
+	select TOP 1
+			Khoa.MaKH as [Mã khoa],
+			TenKH as [Tên khoa],
+			COUNT(MaSV) as [Số sinh viên nữ]
+	from Khoa JOIN SinhVien on Khoa.MaKH = SinhVien.MaKH
+	where Phai = 1
+	group by Khoa.MaKH, TenKH
+--xem dữ liệu qua view
+Select * from vw_GetSVnu
+
+/*
+26. Thống kê sinh viên theo khoa,
+gồm: mã khoa, tên khoa, tổng số sv, tổng số sv nữ.
+*/
+CREATE VIEW vw_GetSVtheoKhoa
+AS
+	select Khoa.MaKH as [Mã khoa],
+			TenKH as [Tên khoa],
+			COUNT(MaSV) as [Tổng số  sinh viên],
+			SUM(case
+					when Phai = 1 then 1
+				end) as [Tổng số sinh viên nữ]
+	from Khoa JOIN SinhVien on Khoa.MaKH = SinhVien.MaKH
+	group by Khoa.MaKH, TenKH
+--xem dữ liệu qua view
+Select * from vw_GetSVtheoKhoa
+
+/*
+27. cho biết kết quả học tập của sinh viên,
+gồm: Họ tên sinh viên,Tên khoa, kết quả.
+Trong đó, kết quả sẽ là Đậu nếu ko có môn nào có điểm < 4.
+*/
+CREATE VIEW vw_GetKQcuaSV
+AS
+	select HoSV + ' ' + TenSV as [Họ tên sinh viên],
+			TenKH as [Tên khoa],
+			case
+				when MIN(Diem) < 4 then N'Rớt'
+				else N'Đậu'
+			end as [Kết quả]
+	from SinhVien JOIN Khoa on Khoa.MaKH = SinhVien.MaKH
+					JOIN Ketqua on Ketqua.MaSV = SinhVien.MaSV
+	group by HoSV, TenSV, TenKH
+--xem dữ liệu qua view
+Select * from vw_GetKQcuaSV
+
+/*
+28. Danh sách những sv không có môn nào < 4 điểm,
+gồm: Họ tên sv, tên khoa, Phái.
+*/
+CREATE VIEW vw_GetSVkhongRot
+AS
+	select HoSV + ' ' + TenSV as [Họ tên sinh viên],
+			TenKH as [Tên khoa],
+			Phai as [Phái]
+	from SinhVien JOIN Khoa on Khoa.MaKH = SinhVien.MaKH
+				JOIN Ketqua on Ketqua.MaSV = SinhVien.MaSV
+	group by HoSV, TenSV, TenKH, Phai
+	Having MIN(Diem) >=4	--Having: chỉ lấy giá trị
+--xem dữ liệu qua view
+Select * from vw_GetSVkhongRot
+
+/*
+29. cho biết danh sách những môn ko có điểm thi < 4,
+gồm: Mã môn, Tên môn.
+*/
+CREATE VIEW vw_GetMonThi
+AS
+	select MonHoc.MaMH as [Mã môn học],
+			TenMH as [Tên môn học]
+	from MonHoc JOIN Ketqua on Ketqua.MaMH = MonHoc.MaMH
+	group by MonHoc.MaMH, TenMH
+	Having MIN(Diem) >=4
+--xem dữ liệu qua view
+Select * from vw_GetMonThi
+
+/*
+30. Cho biết những khoa không có sinh viên rớt,
+sinh viên rớt nếu điểm thi của môn < 5,
+gồm: Mã khoa, Tên khoa.
+*/
+CREATE VIEW vw_GetKhoaKoSVRot
+AS
+	select MaKH as [Mã khoa],
+			TenKH as [Tên khoa]
+	from Khoa 
+	where not exists (select 1 from SinhVien JOIN Ketqua on Ketqua.MaSV = SinhVien.MaSV where SinhVien.MaKH = Khoa.MaKH and Diem < 5)
+--xem dữ liệu qua view
+Select * from vw_GetKhoaKoSVRot
+			
+/*
+31. thống kê số sinh viên đậu và số sinh viên rớt của từng môn,
+biết sinh viên rớt khi điểm môn < 5,
+gồm: Mã môn, Tên môn, Số sv đậu, Số sv rớt.
+*/
+CREATE VIEW vw_GetThongKeSV 
+AS
+	select 
+		MonHoc.MaMH as [Mã môn học],
+		TenMH as [Tên môn học],
+		SUM(CASE WHEN Diem >= 5 THEN 1 ELSE 0 END) AS SoSV_Dau,
+		SUM(CASE WHEN Diem < 5 THEN 1 ELSE 0 END) AS SoSV_Rot
+	from Ketqua JOIN MonHoc ON Ketqua.MaMH = MonHoc.MaMH
+	GROUP BY MonHoc.MaMH, TenMH
+--xem dữ liệu qua view
+Select * from vw_GetThongKeSV
+
+/*
+32. cho biết môn nào không có sinh viên rớt,
+gồm: Mã môn, Tên môn.
+*/
+CREATE VIEW vw_GetKhongSVRot 
+AS
+	select 
+		MonHoc.MaMH as [Mã môn học],
+		TenMH as [Tên môn học]
+	from MonHoc JOIN Ketqua ON MonHoc.MaMH = Ketqua.MaMH
+	GROUP BY MonHoc.MaMH, TenMH
+	HAVING SUM(CASE WHEN Diem < 5 THEN 1 ELSE 0 END) = 0;
+--xem dữ liệu qua view
+Select * from vw_GetKhongSVRot
+
+/*
+33. danh sách sinh viên không có môn nào rớt,
+gồm: Mã sv, họ tên, Mã khoa.
+*/
+CREATE VIEW vw_GetKhongSVRotKhac 
+AS
+	select 
+		SinhVien.MaSV as [Mã sinh Viên],
+		HoSV + ' ' + TenSV as [Họ tên sinh viên],
+		Khoa.MaKH as [Mã khoa]
+	from SinhVien JOIN Khoa ON SinhVien.MaKH = Khoa.MaKH
+					JOIN Ketqua ON Ketqua.MaSV = SinhVien.MaSV
+	GROUP BY SinhVien.MaSV, HoSV, TenSV, Khoa.MaKH
+	HAVING SUM(CASE WHEN Diem < 5 THEN 1 ELSE 0 END) = 0;
+--xem dữ liệu qua view
+Select * from vw_GetKhongSVRotKhac
+
+/*
+34. danh sách các sv rớt trên 2 môn,
+gồm: Mã sv, Họ tên, Mã khoa.
+*/
+CREATE VIEW vw_GetSinhVienRotHon2Mon 
+AS
+	select 
+		SinhVien.MaSV as [Mã sinh viên],
+		HoSV + ' ' + TenSV  as [Họ tên sinh viên],
+		MaKH as [Mã khoa]
+	from SinhVien JOIN Ketqua ON SinhVien.MaSV = Ketqua.MaSV
+	GROUP BY SinhVien.MaSV, HoSV, TenSV, MaKH
+	HAVING SUM(CASE WHEN Diem < 5 THEN 1 ELSE 0 END) > 2;
+--xem dữ liệu qua view
+Select * from vw_GetSinhVienRotHon2Mon
+
+/*
+35. cho biết danh sách những khoa có nhiều hơn 10 sinh viên,
+gồm: Mã khoa, Tên khoa, Tổng số sv của khoa.
+*/
+CREATE VIEW vw_GetKhoaCoNhieuHon10SV 
+AS
+	select 
+		Khoa.MaKH as [Mã khoa],
+		TenKH as [Tên khoa],
+		COUNT(MaSV) as [Tổng số sinh viên]
+	from SinhVien JOIN Khoa ON SinhVien.MaKH = Khoa.MaKH
+	GROUP BY Khoa.MaKH, TenKH
+	HAVING COUNT(MaSV) > 10;
+--xem dữ liệu qua view
+Select * from vw_GetKhoaCoNhieuHon10SV
+
+/*
+36. danh sách những sinh viên thi nhiều hơn 4 môn,
+gồm: Mã sv, Họ tên sv, Số môn thi.
+*/
+CREATE VIEW vw_GetSinhVienThiHon4Mon 
+AS
+	select 
+		SinhVien.MaSV as [Mã sinh viên],
+		HoSV + ' ' + TenSV as [Họ tên sinh viên],
+		COUNT(MaMH) as [Số môn thi]
+	from SinhVien JOIN Ketqua ON SinhVien.MaSV = Ketqua.MaSV
+	GROUP BY SinhVien.MaSV, HoSV, TenSV
+	HAVING COUNT(MaMH) > 4;
+--xem dữ liệu qua view
+Select * from vw_GetSinhVienThiHon4Mon
+/*
+37. Cho biết khoa có 5 sinh viên nam trở lên,
+gồm: Mã khoa, Tên khoa,Tổng số sinh viên nam.
+*/
+CREATE VIEW vw_GetKhoaCo5SinhVienNamTroLen 
+AS
+	select 
+		Khoa.MaKH as [Mã khoa],
+		TenKH as [Tên khoa],
+		COUNT(MaSV) as [Tổng số sinh viên nam]
+	from SinhVien JOIN Khoa ON SinhVien.MaKH = Khoa.MaKH
+	where Phai = 0  -- Nam
+	GROUP BY Khoa.MaKH, TenKH
+	HAVING COUNT(MaSV) >= 5;
+--xem dữ liệu qua view
+Select * from vw_GetKhoaCo5SinhVienNamTroLen
+
+/*
+38. Danh sách những sv có trung bình điểm thi > 4,
+gồm: Họ tên sinh viên, Tên khoa, phái, Điểm trung bình các môn.
+*/
+CREATE VIEW vw_GetSinhVienDiemTrungBinhLonHon4 
+AS
+	select 
+		HoSV + ' ' + TenSV as [Họ tên sinh viên],
+		TenKH as [Tên khoa],
+		Phai as [Phái],
+		DiemTrungBinh as [Điểm trung bình]
+	from SinhVien JOIN Khoa ON SinhVien.MaKH = Khoa.MaKH
+	where DiemTrungBinh > 4;
+--xem dữ liệu qua view
+Select * from vw_GetSinhVienDiemTrungBinhLonHon4
+
+/*
+39. cho biết trung bình điểm thi của từng môn,
+chỉ lấy môn nào có trung bình điểm thi > 6,
+gồm: Mã môn, Tên môn, Trung bình điểm.
+*/
+CREATE VIEW vw_GetTrungBinhDiemMonHoc 
+AS
+	select 
+		MonHoc.MaMH as [Mã môn học],
+		TenMH as [Tên môn],
+		AVG(Diem) as [Trung bình điểm]
+	from Ketqua JOIN MonHoc ON Ketqua.MaMH = MonHoc.MaMH
+	GROUP BY MonHoc.MaMH, TenMH
+	HAVING AVG(Diem) > 6;
+--xem dữ liệu qua view
+Select * from vw_GetTrungBinhDiemMonHoc
+
+
+
