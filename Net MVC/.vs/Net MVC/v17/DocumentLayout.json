@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VTTT-Dev2409GH-C-_NetCore\\Net MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8F433C-1BA1-4EB7-84F5-55B44EE59816}|Lession02.MVC\\Lession02.MVC.csproj|d:\\vttt-dev2409gh-c-_netcore\\net mvc\\lession02.mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8F433C-1BA1-4EB7-84F5-55B44EE59816}|Lession02.MVC\\Lession02.MVC.csproj|solutionrelative:lession02.mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8F433C-1BA1-4EB7-84F5-55B44EE59816}|Lession02.MVC\\Lession02.MVC.csproj|d:\\vttt-dev2409gh-c-_netcore\\net mvc\\lession02.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8F433C-1BA1-4EB7-84F5-55B44EE59816}|Lession02.MVC\\Lession02.MVC.csproj|solutionrelative:lession02.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8F433C-1BA1-4EB7-84F5-55B44EE59816}|Lession02.MVC\\Lession02.MVC.csproj|d:\\vttt-dev2409gh-c-_netcore\\net mvc\\lession02.mvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8F433C-1BA1-4EB7-84F5-55B44EE59816}|Lession02.MVC\\Lession02.MVC.csproj|solutionrelative:lession02.mvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8F433C-1BA1-4EB7-84F5-55B44EE59816}|Lession02.MVC\\Lession02.MVC.csproj|d:\\vttt-dev2409gh-c-_netcore\\net mvc\\lession02.mvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8F433C-1BA1-4EB7-84F5-55B44EE59816}|Lession02.MVC\\Lession02.MVC.csproj|solutionrelative:lession02.mvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8F433C-1BA1-4EB7-84F5-55B44EE59816}|Lession02.MVC\\Lession02.MVC.csproj|d:\\vttt-dev2409gh-c-_netcore\\net mvc\\lession02.mvc\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8F433C-1BA1-4EB7-84F5-55B44EE59816}|Lession02.MVC\\Lession02.MVC.csproj|solutionrelative:lession02.mvc\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8F433C-1BA1-4EB7-84F5-55B44EE59816}|Lession02.MVC\\Lession02.MVC.csproj|d:\\vttt-dev2409gh-c-_netcore\\net mvc\\lession02.mvc\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A8F433C-1BA1-4EB7-84F5-55B44EE59816}|Lession02.MVC\\Lession02.MVC.csproj|solutionrelative:lession02.mvc\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8F433C-1BA1-4EB7-84F5-55B44EE59816}|Lession02.MVC\\Lession02.MVC.csproj|d:\\vttt-dev2409gh-c-_netcore\\net mvc\\lession02.mvc\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A8F433C-1BA1-4EB7-84F5-55B44EE59816}|Lession02.MVC\\Lession02.MVC.csproj|solutionrelative:lession02.mvc\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8F433C-1BA1-4EB7-84F5-55B44EE59816}|Lession02.MVC\\Lession02.MVC.csproj|d:\\vttt-dev2409gh-c-_netcore\\net mvc\\lession02.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A8F433C-1BA1-4EB7-84F5-55B44EE59816}|Lession02.MVC\\Lession02.MVC.csproj|solutionrelative:lession02.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8F433C-1BA1-4EB7-84F5-55B44EE59816}|Lession02.MVC\\Lession02.MVC.csproj|d:\\vttt-dev2409gh-c-_netcore\\net mvc\\lession02.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A8F433C-1BA1-4EB7-84F5-55B44EE59816}|Lession02.MVC\\Lession02.MVC.csproj|solutionrelative:lession02.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Net MVC\\Lession02.MVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Lession02.MVC\\Models\\Product.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Net MVC\\Lession02.MVC\\Models\\Product.cs",
+              "RelativeToolTip": "Lession02.MVC\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T04:47:06.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Net MVC\\Lession02.MVC\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Lession02.MVC\\Models\\Category.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Net MVC\\Lession02.MVC\\Models\\Category.cs",
+              "RelativeToolTip": "Lession02.MVC\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T04:46:52.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Net MVC\\Lession02.MVC\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Lession02.MVC\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Net MVC\\Lession02.MVC\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Lession02.MVC\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T04:44:57.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Net MVC\\Lession02.MVC\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Lession02.MVC\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Net MVC\\Lession02.MVC\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "Lession02.MVC\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T03:45:56.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Net MVC\\Lession02.MVC\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lession02.MVC\\Views\\Account\\Index.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Net MVC\\Lession02.MVC\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "Lession02.MVC\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T03:00:17.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Net MVC\\Lession02.MVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Lession02.MVC\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Net MVC\\Lession02.MVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Lession02.MVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:59:42.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Net MVC\\Lession02.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lession02.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Net MVC\\Lession02.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lession02.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T03:26:43.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Net MVC\\Lession02.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Lession02.MVC\\Program.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Net MVC\\Lession02.MVC\\Program.cs",
+              "RelativeToolTip": "Lession02.MVC\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T04:06:48.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Net MVC\\Lession02.MVC\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Lession02.MVC\\Models\\Account.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Net MVC\\Lession02.MVC\\Models\\Account.cs",
+              "RelativeToolTip": "Lession02.MVC\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:05:18.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

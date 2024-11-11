@@ -1,0 +1,18 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+
+<h1>Dữ liệu lấy từ ViewData</h1>
+@{
+    var product = ViewData["productVd"] as
+            Lesson2.Models.Product;
+}
+<p>Mã sản phẩm: @product.ProductId</p>
+<p>Tên sản phẩm: @product.ProductName</p>
+<p>Năm: @product.Year</p>
+<p>Giá: @product.Price</p>
+
