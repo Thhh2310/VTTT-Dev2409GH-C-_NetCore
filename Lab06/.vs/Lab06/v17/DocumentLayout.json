@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B2EF5-B21B-4E9F-BE62-4187AFE584B6}|Lab06\\Lab06.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab06\\lab06\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4B2EF5-B21B-4E9F-BE62-4187AFE584B6}|Lab06\\Lab06.csproj|solutionrelative:lab06\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B2EF5-B21B-4E9F-BE62-4187AFE584B6}|Lab06\\Lab06.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab06\\lab06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4B2EF5-B21B-4E9F-BE62-4187AFE584B6}|Lab06\\Lab06.csproj|solutionrelative:lab06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B2EF5-B21B-4E9F-BE62-4187AFE584B6}|Lab06\\Lab06.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab06\\lab06\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4B2EF5-B21B-4E9F-BE62-4187AFE584B6}|Lab06\\Lab06.csproj|solutionrelative:lab06\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B2EF5-B21B-4E9F-BE62-4187AFE584B6}|Lab06\\Lab06.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab06\\lab06\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA4B2EF5-B21B-4E9F-BE62-4187AFE584B6}|Lab06\\Lab06.csproj|solutionrelative:lab06\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4B2EF5-B21B-4E9F-BE62-4187AFE584B6}|Lab06\\Lab06.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab06\\lab06\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4B2EF5-B21B-4E9F-BE62-4187AFE584B6}|Lab06\\Lab06.csproj|solutionrelative:lab06\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab06\\Lab06\\Program.cs",
+              "RelativeDocumentMoniker": "Lab06\\Program.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab06\\Lab06\\Program.cs",
+              "RelativeToolTip": "Lab06\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:13:46.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab06\\Lab06\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Lab06\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab06\\Lab06\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Lab06\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:16:34.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab06\\Lab06\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Lab06\\Models\\Product.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab06\\Lab06\\Models\\Product.cs",
+              "RelativeToolTip": "Lab06\\Models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:15:54.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab06\\Lab06\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Lab06\\Models\\Category.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab06\\Lab06\\Models\\Category.cs",
+              "RelativeToolTip": "Lab06\\Models\\Category.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:15:35.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab06\\Lab06\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab06\\appsettings.json",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab06\\Lab06\\appsettings.json",
+              "RelativeToolTip": "Lab06\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-15T04:11:47.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
