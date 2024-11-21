@@ -1,0 +1,344 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|d:\\vttt-dev2409gh-c-_netcore\\session09\\session09\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|solutionrelative:session09\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|d:\\vttt-dev2409gh-c-_netcore\\session09\\session09\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|solutionrelative:session09\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|d:\\vttt-dev2409gh-c-_netcore\\session09\\session09\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|solutionrelative:session09\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|d:\\vttt-dev2409gh-c-_netcore\\session09\\session09\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|solutionrelative:session09\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|d:\\vttt-dev2409gh-c-_netcore\\session09\\session09\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|solutionrelative:session09\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|d:\\vttt-dev2409gh-c-_netcore\\session09\\session09\\wwwroot\\css\\fonts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|solutionrelative:session09\\wwwroot\\css\\fonts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|d:\\vttt-dev2409gh-c-_netcore\\session09\\session09\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|solutionrelative:session09\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|d:\\vttt-dev2409gh-c-_netcore\\session09\\session09\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|solutionrelative:session09\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|d:\\vttt-dev2409gh-c-_netcore\\session09\\session09\\areas\\admins\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|solutionrelative:session09\\areas\\admins\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|d:\\vttt-dev2409gh-c-_netcore\\session09\\session09\\areas\\admins\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|solutionrelative:session09\\areas\\admins\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|d:\\vttt-dev2409gh-c-_netcore\\session09\\session09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|solutionrelative:session09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|d:\\vttt-dev2409gh-c-_netcore\\session09\\session09\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|solutionrelative:session09\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|d:\\vttt-dev2409gh-c-_netcore\\session09\\session09\\areas\\admins\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|solutionrelative:session09\\areas\\admins\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|d:\\vttt-dev2409gh-c-_netcore\\session09\\session09\\areas\\admins\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|solutionrelative:session09\\areas\\admins\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|d:\\vttt-dev2409gh-c-_netcore\\session09\\session09\\areas\\admins\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|solutionrelative:session09\\areas\\admins\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|d:\\vttt-dev2409gh-c-_netcore\\session09\\session09\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|solutionrelative:session09\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|d:\\vttt-dev2409gh-c-_netcore\\session09\\session09\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|solutionrelative:session09\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|d:\\vttt-dev2409gh-c-_netcore\\session09\\session09\\areas\\admins\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|solutionrelative:session09\\areas\\admins\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|d:\\vttt-dev2409gh-c-_netcore\\session09\\session09\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|solutionrelative:session09\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|d:\\vttt-dev2409gh-c-_netcore\\session09\\session09\\models\\devxuongmoccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED90921-19E2-4E8B-BD4C-4C36B246936A}|Session09\\Session09.csproj|solutionrelative:session09\\models\\devxuongmoccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Session09\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Session09\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T07:15:22.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Session09\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Session09\\Controllers\\CartController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:29:34.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Session09\\Models\\Cart.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Models\\Cart.cs",
+              "RelativeToolTip": "Session09\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:26:22.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Session09\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Session09\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T04:33:04.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fonts.css",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\wwwroot\\css\\fonts.css",
+              "RelativeDocumentMoniker": "Session09\\wwwroot\\css\\fonts.css",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\wwwroot\\css\\fonts.css",
+              "RelativeToolTip": "Session09\\wwwroot\\css\\fonts.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-21T04:38:35.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Session09\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Session09\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T04:13:59.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Session09\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Session09\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T04:09:52.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Session09\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Session09\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T04:07:25.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_SideBar.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeDocumentMoniker": "Session09\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeToolTip": "Session09\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T03:16:08.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Areas\\Admins\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Session09\\Areas\\Admins\\Controllers\\BaseController.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Areas\\Admins\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Session09\\Areas\\Admins\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:59:58.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Areas\\Admins\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Session09\\Areas\\Admins\\Views\\Login\\Index.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Areas\\Admins\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Session09\\Areas\\Admins\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T02:55:02.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Areas\\Admins\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Session09\\Areas\\Admins\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Areas\\Admins\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Session09\\Areas\\Admins\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:51:50.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Program.cs",
+              "RelativeDocumentMoniker": "Session09\\Program.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Program.cs",
+              "RelativeToolTip": "Session09\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:37:13.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Session09\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Session09\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:34:36.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Areas\\Admins\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Session09\\Areas\\Admins\\Models\\Login.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Areas\\Admins\\Models\\Login.cs",
+              "RelativeToolTip": "Session09\\Areas\\Admins\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:50:48.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\appsettings.json",
+              "RelativeDocumentMoniker": "Session09\\appsettings.json",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\appsettings.json",
+              "RelativeToolTip": "Session09\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T02:48:05.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DevXuongMocContext.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Models\\DevXuongMocContext.cs",
+              "RelativeDocumentMoniker": "Session09\\Models\\DevXuongMocContext.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Models\\DevXuongMocContext.cs",
+              "RelativeToolTip": "Session09\\Models\\DevXuongMocContext.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA2wDEAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:46:53.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Session09\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Session09\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T02:36:49.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Session09\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Session09\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T02:33:24.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Session09\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Session09\\Session09\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Session09\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-21T02:32:28.17Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

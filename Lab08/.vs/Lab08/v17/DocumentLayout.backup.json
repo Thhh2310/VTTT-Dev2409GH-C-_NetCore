@@ -1,0 +1,530 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\areas\\admins\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\areas\\admins\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\areas\\admins\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\areas\\admins\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\areas\\admins\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\areas\\admins\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\areas\\admins\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\areas\\admins\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\areas\\admins\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\areas\\admins\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\areas\\admins\\views\\shared\\_admins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\areas\\admins\\views\\shared\\_admins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\areas\\admins\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\areas\\admins\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\areas\\admins\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\areas\\admins\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\areas\\admins\\views\\shared\\_preloader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\areas\\admins\\views\\shared\\_preloader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\areas\\admins\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\areas\\admins\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\areas\\admins\\controllers\\bannerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\areas\\admins\\controllers\\bannerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\areas\\admins\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\areas\\admins\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\areas\\admins\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\areas\\admins\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\areas\\admins\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\areas\\admins\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\migrations\\20241119015713_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\migrations\\20241119015713_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\models\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\models\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|d:\\vttt-dev2409gh-c-_netcore\\lab08\\lab08\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FEE8A3D-0023-4CB9-961F-21836AD80A1C}|Lab08\\Lab08.csproj|solutionrelative:lab08\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab08\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Lab08\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T03:15:45.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Lab08\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Lab08\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA1wCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:20:45.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Lab08\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Lab08\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:15:09.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Program.cs",
+              "RelativeDocumentMoniker": "Lab08\\Program.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Program.cs",
+              "RelativeToolTip": "Lab08\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:52:13.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab08\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Lab08\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T02:16:00.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab08\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Lab08\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAD8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T03:16:18.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab08\\Areas\\Admins\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "Lab08\\Areas\\Admins\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T03:09:24.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab08\\Areas\\Admins\\Views\\Products\\Create.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Lab08\\Areas\\Admins\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T03:09:54.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_SideBar.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeDocumentMoniker": "Lab08\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeToolTip": "Lab08\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T02:29:26.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_NavBar.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Views\\Shared\\_NavBar.cshtml",
+              "RelativeDocumentMoniker": "Lab08\\Areas\\Admins\\Views\\Shared\\_NavBar.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Views\\Shared\\_NavBar.cshtml",
+              "RelativeToolTip": "Lab08\\Areas\\Admins\\Views\\Shared\\_NavBar.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAACwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T02:28:39.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Admins.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Views\\Shared\\_Admins.cshtml",
+              "RelativeDocumentMoniker": "Lab08\\Areas\\Admins\\Views\\Shared\\_Admins.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Views\\Shared\\_Admins.cshtml",
+              "RelativeToolTip": "Lab08\\Areas\\Admins\\Views\\Shared\\_Admins.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T02:11:09.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Lab08\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Lab08\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAQwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:22:33.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Preloader.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Views\\Shared\\_Preloader.cshtml",
+              "RelativeDocumentMoniker": "Lab08\\Areas\\Admins\\Views\\Shared\\_Preloader.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Views\\Shared\\_Preloader.cshtml",
+              "RelativeToolTip": "Lab08\\Areas\\Admins\\Views\\Shared\\_Preloader.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T02:30:17.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "Lab08\\Areas\\Admins\\Controllers\\BlogsController.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "Lab08\\Areas\\Admins\\Controllers\\BlogsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:27:23.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BannersController.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Controllers\\BannersController.cs",
+              "RelativeDocumentMoniker": "Lab08\\Areas\\Admins\\Controllers\\BannersController.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Controllers\\BannersController.cs",
+              "RelativeToolTip": "Lab08\\Areas\\Admins\\Controllers\\BannersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:26:32.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderDetailsController.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Controllers\\OrderDetailsController.cs",
+              "RelativeDocumentMoniker": "Lab08\\Areas\\Admins\\Controllers\\OrderDetailsController.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Controllers\\OrderDetailsController.cs",
+              "RelativeToolTip": "Lab08\\Areas\\Admins\\Controllers\\OrderDetailsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:25:30.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Lab08\\Areas\\Admins\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Lab08\\Areas\\Admins\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:24:38.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Lab08\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Lab08\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T02:13:56.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Lab08\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Lab08\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-19T02:02:27.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241119015713_v1.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Migrations\\20241119015713_v1.cs",
+              "RelativeDocumentMoniker": "Lab08\\Migrations\\20241119015713_v1.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Migrations\\20241119015713_v1.cs",
+              "RelativeToolTip": "Lab08\\Migrations\\20241119015713_v1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:57:14.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\appsettings.json",
+              "RelativeDocumentMoniker": "Lab08\\appsettings.json",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\appsettings.json",
+              "RelativeToolTip": "Lab08\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-19T01:50:11.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Lab08\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Lab08\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:48:46.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Lab08\\Models\\Category.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Models\\Category.cs",
+              "RelativeToolTip": "Lab08\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:44:25.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "Lab08\\Models\\Blog.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Models\\Blog.cs",
+              "RelativeToolTip": "Lab08\\Models\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:43:39.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Banner.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Models\\Banner.cs",
+              "RelativeDocumentMoniker": "Lab08\\Models\\Banner.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Models\\Banner.cs",
+              "RelativeToolTip": "Lab08\\Models\\Banner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:42:47.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Lab08\\Models\\Customer.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Models\\Customer.cs",
+              "RelativeToolTip": "Lab08\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:41:36.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Lab08\\Models\\OrderDetail.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Lab08\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:46:52.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "Lab08\\Models\\Orders.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Models\\Orders.cs",
+              "RelativeToolTip": "Lab08\\Models\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:46:04.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Lab08\\Models\\Product.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Models\\Product.cs",
+              "RelativeToolTip": "Lab08\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:45:15.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Lab08\\Models\\Account.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\Lab08\\Lab08\\Models\\Account.cs",
+              "RelativeToolTip": "Lab08\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:39:46.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

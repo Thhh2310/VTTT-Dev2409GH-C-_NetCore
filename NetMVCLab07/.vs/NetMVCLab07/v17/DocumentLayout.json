@@ -1,0 +1,492 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|d:\\vttt-dev2409gh-c-_netcore\\netmvclab07\\netmvclab07\\areas\\admins\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|solutionrelative:netmvclab07\\areas\\admins\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|d:\\vttt-dev2409gh-c-_netcore\\netmvclab07\\netmvclab07\\areas\\admins\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|solutionrelative:netmvclab07\\areas\\admins\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|d:\\vttt-dev2409gh-c-_netcore\\netmvclab07\\netmvclab07\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|solutionrelative:netmvclab07\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|d:\\vttt-dev2409gh-c-_netcore\\netmvclab07\\netmvclab07\\areas\\admins\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|solutionrelative:netmvclab07\\areas\\admins\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|d:\\vttt-dev2409gh-c-_netcore\\netmvclab07\\netmvclab07\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|solutionrelative:netmvclab07\\areas\\admins\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|d:\\vttt-dev2409gh-c-_netcore\\netmvclab07\\netmvclab07\\areas\\admins\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|solutionrelative:netmvclab07\\areas\\admins\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|d:\\vttt-dev2409gh-c-_netcore\\netmvclab07\\netmvclab07\\areas\\admins\\views\\shared\\_admins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|solutionrelative:netmvclab07\\areas\\admins\\views\\shared\\_admins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|d:\\vttt-dev2409gh-c-_netcore\\netmvclab07\\netmvclab07\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|solutionrelative:netmvclab07\\areas\\admins\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|d:\\vttt-dev2409gh-c-_netcore\\netmvclab07\\netmvclab07\\areas\\admins\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|solutionrelative:netmvclab07\\areas\\admins\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|d:\\vttt-dev2409gh-c-_netcore\\netmvclab07\\netmvclab07\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|solutionrelative:netmvclab07\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|d:\\vttt-dev2409gh-c-_netcore\\netmvclab07\\netmvclab07\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|solutionrelative:netmvclab07\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|d:\\vttt-dev2409gh-c-_netcore\\netmvclab07\\netmvclab07\\areas\\admins\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|solutionrelative:netmvclab07\\areas\\admins\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|d:\\vttt-dev2409gh-c-_netcore\\netmvclab07\\netmvclab07\\areas\\admins\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|solutionrelative:netmvclab07\\areas\\admins\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|d:\\vttt-dev2409gh-c-_netcore\\netmvclab07\\netmvclab07\\areas\\admins\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|solutionrelative:netmvclab07\\areas\\admins\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|d:\\vttt-dev2409gh-c-_netcore\\netmvclab07\\netmvclab07\\areas\\admins\\controllers\\bannerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|solutionrelative:netmvclab07\\areas\\admins\\controllers\\bannerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|d:\\vttt-dev2409gh-c-_netcore\\netmvclab07\\netmvclab07\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|solutionrelative:netmvclab07\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|d:\\vttt-dev2409gh-c-_netcore\\netmvclab07\\netmvclab07\\areas\\admins\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|solutionrelative:netmvclab07\\areas\\admins\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|d:\\vttt-dev2409gh-c-_netcore\\netmvclab07\\netmvclab07\\areas\\admins\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|solutionrelative:netmvclab07\\areas\\admins\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|d:\\vttt-dev2409gh-c-_netcore\\netmvclab07\\netmvclab07\\areas\\admins\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|solutionrelative:netmvclab07\\areas\\admins\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|d:\\vttt-dev2409gh-c-_netcore\\netmvclab07\\netmvclab07\\migrations\\20241118041815_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|solutionrelative:netmvclab07\\migrations\\20241118041815_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|d:\\vttt-dev2409gh-c-_netcore\\netmvclab07\\netmvclab07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|solutionrelative:netmvclab07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|d:\\vttt-dev2409gh-c-_netcore\\netmvclab07\\netmvclab07\\models\\productmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|solutionrelative:netmvclab07\\models\\productmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|d:\\vttt-dev2409gh-c-_netcore\\netmvclab07\\netmvclab07\\models\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|solutionrelative:netmvclab07\\models\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|d:\\vttt-dev2409gh-c-_netcore\\netmvclab07\\netmvclab07\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|solutionrelative:netmvclab07\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|d:\\vttt-dev2409gh-c-_netcore\\netmvclab07\\netmvclab07\\areas\\admins\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|solutionrelative:netmvclab07\\areas\\admins\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|d:\\vttt-dev2409gh-c-_netcore\\netmvclab07\\netmvclab07\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|solutionrelative:netmvclab07\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|d:\\vttt-dev2409gh-c-_netcore\\netmvclab07\\netmvclab07\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|solutionrelative:netmvclab07\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|d:\\vttt-dev2409gh-c-_netcore\\netmvclab07\\netmvclab07\\areas\\admins\\views\\shared\\_preloader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|solutionrelative:netmvclab07\\areas\\admins\\views\\shared\\_preloader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|d:\\vttt-dev2409gh-c-_netcore\\netmvclab07\\netmvclab07\\areas\\admins\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13AA21FF-B4A9-4909-A79B-0929974939EF}|NetMVCLab07\\NetMVCLab07.csproj|solutionrelative:netmvclab07\\areas\\admins\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "NetMVCLab07\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "NetMVCLab07\\Areas\\Admins\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAuwJQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:21:31.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "NetMVCLab07\\Areas\\Admins\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "NetMVCLab07\\Areas\\Admins\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T09:54:12.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "NetMVCLab07\\Areas\\Admins\\Views\\Products\\Create.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "NetMVCLab07\\Areas\\Admins\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T11:54:02.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "NetMVCLab07\\Models\\Category.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Models\\Category.cs",
+              "RelativeToolTip": "NetMVCLab07\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:17:29.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "NetMVCLab07\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "NetMVCLab07\\Areas\\Admins\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T10:28:29.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "NetMVCLab07\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "NetMVCLab07\\Areas\\Admins\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAuwIIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:22:35.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Admins.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Views\\Shared\\_Admins.cshtml",
+              "RelativeDocumentMoniker": "NetMVCLab07\\Areas\\Admins\\Views\\Shared\\_Admins.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Views\\Shared\\_Admins.cshtml",
+              "RelativeToolTip": "NetMVCLab07\\Areas\\Admins\\Views\\Shared\\_Admins.cshtml",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAYwHUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T01:45:48.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "NetMVCLab07\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "NetMVCLab07\\Areas\\Admins\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:55:57.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "NetMVCLab07\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "NetMVCLab07\\Areas\\Admins\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T12:09:47.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "NetMVCLab07\\Models\\Product.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Models\\Product.cs",
+              "RelativeToolTip": "NetMVCLab07\\Models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:17:00.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "NetMVCLab07\\Areas\\Admins\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "NetMVCLab07\\Areas\\Admins\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T10:50:23.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\appsettings.json",
+              "RelativeDocumentMoniker": "NetMVCLab07\\appsettings.json",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\appsettings.json",
+              "RelativeToolTip": "NetMVCLab07\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T03:41:54.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "NetMVCLab07\\Areas\\Admins\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "NetMVCLab07\\Areas\\Admins\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T10:50:17.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "NetMVCLab07\\Areas\\Admins\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "NetMVCLab07\\Areas\\Admins\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T10:50:28.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BannersController.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Controllers\\BannersController.cs",
+              "RelativeDocumentMoniker": "NetMVCLab07\\Areas\\Admins\\Controllers\\BannersController.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Controllers\\BannersController.cs",
+              "RelativeToolTip": "NetMVCLab07\\Areas\\Admins\\Controllers\\BannersController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:24:00.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_NavBar.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Views\\Shared\\_NavBar.cshtml",
+              "RelativeDocumentMoniker": "NetMVCLab07\\Areas\\Admins\\Views\\Shared\\_NavBar.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Views\\Shared\\_NavBar.cshtml",
+              "RelativeToolTip": "NetMVCLab07\\Areas\\Admins\\Views\\Shared\\_NavBar.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAF8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T02:40:35.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_SideBar.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeDocumentMoniker": "NetMVCLab07\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeToolTip": "NetMVCLab07\\Areas\\Admins\\Views\\Shared\\_SideBar.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T02:40:51.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "NetMVCLab07\\Areas\\Admins\\Controllers\\BlogsController.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "NetMVCLab07\\Areas\\Admins\\Controllers\\BlogsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:24:55.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "NetMVCLab07\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "NetMVCLab07\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T01:57:19.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241118041815_v1.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Migrations\\20241118041815_v1.cs",
+              "RelativeDocumentMoniker": "NetMVCLab07\\Migrations\\20241118041815_v1.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Migrations\\20241118041815_v1.cs",
+              "RelativeToolTip": "NetMVCLab07\\Migrations\\20241118041815_v1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T04:18:19.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductManagementContext.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Models\\ProductManagementContext.cs",
+              "RelativeDocumentMoniker": "NetMVCLab07\\Models\\ProductManagementContext.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Models\\ProductManagementContext.cs",
+              "RelativeToolTip": "NetMVCLab07\\Models\\ProductManagementContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:46:24.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Program.cs",
+              "RelativeDocumentMoniker": "NetMVCLab07\\Program.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Program.cs",
+              "RelativeToolTip": "NetMVCLab07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:59:11.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Banner.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Models\\Banner.cs",
+              "RelativeDocumentMoniker": "NetMVCLab07\\Models\\Banner.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Models\\Banner.cs",
+              "RelativeToolTip": "NetMVCLab07\\Models\\Banner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:17:55.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NetMVCLab07\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NetMVCLab07\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T01:36:09.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NetMVCLab07\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NetMVCLab07\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T01:53:52.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "NetMVCLab07\\Models\\Blog.cs",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Models\\Blog.cs",
+              "RelativeToolTip": "NetMVCLab07\\Models\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:31:39.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "NetMVCLab07\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "NetMVCLab07\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-18T01:44:19.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Preloader.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Views\\Shared\\_Preloader.cshtml",
+              "RelativeDocumentMoniker": "NetMVCLab07\\Areas\\Admins\\Views\\Shared\\_Preloader.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Views\\Shared\\_Preloader.cshtml",
+              "RelativeToolTip": "NetMVCLab07\\Areas\\Admins\\Views\\Shared\\_Preloader.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T02:41:19.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NetMVCLab07\\Areas\\Admins\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\VTTT-Dev2409GH-C-_NetCore\\NetMVCLab07\\NetMVCLab07\\Areas\\Admins\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "NetMVCLab07\\Areas\\Admins\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T03:09:37.123Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
